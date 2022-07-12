@@ -171,7 +171,8 @@ here because navlist class is child of change class applied to navbar*/
 .section-1{
     width: 100%;
     height: 100vh;
-    background: url(images/bg2.jpg) no-repeat;
+    background: url(images/ba-4.jpg) no-repeat;
+    background-position: center;
     background-size: cover;
     position: relative;
 }
